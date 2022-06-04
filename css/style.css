@@ -12,7 +12,6 @@
     -moz-box-sizing: border-box;
 }
 :root{}
-
 html, body{
     scroll-behavior: smooth;
     font-size: 100%;
@@ -57,8 +56,6 @@ header .container h1{
 .menu-principal li:hover > .sub-menu{
     display: flex;
 }
-
-
 .menu-principal a{
     padding:20px 10px;
     display: block;
@@ -78,7 +75,6 @@ header .container h1{
     display: inline-block;
     padding: 10px 20px;
 }
-
 .sub-menu .sub-menu{
     left: 100%;
     top: 0;
