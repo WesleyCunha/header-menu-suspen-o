@@ -1,2 +1,2 @@
 # Menu suspenso
-Utilizando apenas html e css
+Utilizando apenas **html** e **css**
